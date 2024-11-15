@@ -1,0 +1,19 @@
+### GET request to example server
+GET http://localhost:8080/todo
+
+### POST to todos
+POST http://localhost:8080/todo
+
+{
+  "item": "change litter"
+}
+
+### DELETE from todos
+DELETE http://localhost:8080/todo
+
+{
+  "id": 2
+}
+
+### GET search
+GET http://localhost:8080/search?q=Shop
