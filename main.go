@@ -1,9 +1,9 @@
 package main
 
 import (
-	"goland-tour-api/internal/db"
-	"goland-tour-api/internal/todo"
-	"goland-tour-api/internal/transport"
+	"github.com/ajpotts01/goland-tour-api/internal/db"
+	"github.com/ajpotts01/goland-tour-api/internal/todo"
+	"github.com/ajpotts01/goland-tour-api/internal/transport"
 	"log"
 )
 

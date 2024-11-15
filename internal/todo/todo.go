@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"goland-tour-api/internal/db"
+	"github.com/ajpotts01/goland-tour-api/internal/db"
 	"strings"
 )
 

@@ -2,7 +2,7 @@ package transport
 
 import (
 	"encoding/json"
-	"goland-tour-api/internal/todo"
+	"github.com/ajpotts01/goland-tour-api/internal/todo"
 	"log"
 	"net/http"
 )

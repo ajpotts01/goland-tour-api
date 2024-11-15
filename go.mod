@@ -1,4 +1,4 @@
-module goland-tour-api
+module github.com/ajpotts01/goland-tour-api
 
 go 1.23
 

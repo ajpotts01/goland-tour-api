@@ -3,8 +3,8 @@ package todo_test
 import (
 	"context"
 	"errors"
-	"goland-tour-api/internal/db"
-	"goland-tour-api/internal/todo"
+	"github.com/ajpotts01/goland-tour-api/internal/db"
+	"github.com/ajpotts01/goland-tour-api/internal/todo"
 	"reflect"
 	"testing"
 )
